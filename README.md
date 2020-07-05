@@ -4,7 +4,7 @@ This program will search string within specific range in (binary)file.
 
 To run:
 
-*start /b "" "BinarySearch.exe" "Arg1" Arg2 "Arg3"*  
+*start /b "" "PATH" "Arg1" Arg2 "Arg3"*  
 
 where:  
 
